@@ -1,4 +1,13 @@
-### Hi there 👋
+# Debraj Paul
+
+<p>
+  <a href="https://www.linkedin.com/in/debrajpaul/">
+    <img src="https://img.shields.io/badge/-debrajpaul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debrajpaul/">
+  <a/>
+   <a href="mailto:pauldebraj7@gmail.com">
+    <img src="https://img.shields.io/badge/-pauldebraj7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pauldebraj7@gmail.com">
+   <a/>
+</p>
 
 <!--
 **debrajpaul/debrajpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
