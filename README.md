@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/debraj-paul/">
-    <img src="https://img.shields.io/badge/-debraj-paul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debraj-paul/">
+    <img src="https://img.shields.io/badge/-debrajpaul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debraj-paul/">
   <a/>
    <a href="mailto:pauldebraj7@gmail.com">
     <img src="https://img.shields.io/badge/-pauldebraj7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pauldebraj7@gmail.com">
