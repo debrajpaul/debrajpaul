@@ -1,8 +1,8 @@
 # Debraj Paul
 
-> Programming: Serverless | GraphQL | Node.js | Java
+> Skills: DeFi | Solidity | GraphQL | Node.js | Java | Kafka | Docker | AWS
 
-> Spoken: English
+> Spoken: English, Hindi
 
 > To Reach Out
   <p>
