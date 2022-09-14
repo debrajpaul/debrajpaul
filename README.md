@@ -24,11 +24,6 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=debrajpaul&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"/>
 </p>
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/debrajpaul"><img alt="debraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=debrajpaul&custom_title=debraj's%20Contribution%20Graph&theme=react-dark"/></a>
-  <br/>
-
 <br/>
 
 <summary><b>✨ How to reach me? </b></summary>
