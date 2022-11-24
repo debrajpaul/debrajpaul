@@ -3,9 +3,12 @@
 
 First of all, thanks for visiting my profile. Here, what you should know about me:
 
-- Worked on industrial titled  P2P Lending (Node.js, Google visions, OCR, IVR, Serverless and Docker)’, ‘Bus Portal (Node.js, Redis and ST.js)’, ‘Blockchain API Interface ( Node.js)’ and ‘Generic API interface’ respectively
-- Proficiency in Defi, Solidity, Web3.js, Node.js, Java, GraphQL,  MongoDB, Redis, RabbitMQ, GraphQL, Docker, AWS-Lambda & AWS API-Gateway, Jest,  Spring boot, Hibernate, MySQL and so on.
-- Possess strong knowledge of OOPS concepts and Node.js architecture.
+- Worked on industrial titled P2P Lending (Node.js, Google visions, OCR, IVR, Serverless and Docker)’, ‘Bus Portal (Node.js, Redis and ST.js)’, ‘Blockchain API Interface ( Node.js)’ and ‘Generic API interface’ respectively
+
+- Proficiency in Solidity, Truffle-Suite, Node.js, Java, GraphQL, MongoDB, Redis, RabbitMQ, GraphQL, Docker, AWS-Lambda & AWS API-Gateway, Jest, Spring boot, Hibernate, MySQL and so on.
+
+- Possess strong knowledge of SOLID Principles and Node.js architecture.
+
 - Strong communication, interpersonal & technical skills to grasp new concepts quickly and constructively utilise the same.
 
 ## 🛠 Languages and Tools Familiar With 
