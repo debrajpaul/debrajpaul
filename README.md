@@ -2,14 +2,19 @@
 
 
 First of all, thanks for visiting my profile. Here, what you should know about me:
+- Rich experience in Cloud Engineering, AWS Infrastructure Maintenance; Micro-services, writing Unit Test Cases and Peer Reviews
 
-- Worked on industrial titled P2P Lending (Node.js, Google visions, OCR, IVR, Serverless and Docker)’, ‘Bus Portal (Node.js, Redis and ST.js)’, ‘Blockchain API Interface ( Node.js)’ and ‘Generic API interface’ respectively
+- Headed development of innovative solutions to challenging problems, including command and control and high-integrity solutions
+
+- Devised strategies to overcome challenges of legacy infrastructure to ensure successful implementations.
 
 - Proficiency in Solidity, Truffle-Suite, Node.js, Java, GraphQL, MongoDB, Redis, RabbitMQ, GraphQL, Docker, AWS-Lambda & AWS API-Gateway, Jest, Spring boot, Hibernate, MySQL and so on.
 
-- Possess strong knowledge of SOLID Principles and Node.js architecture.
+- Possess extensive knowledge and experience working on Node.js and SOLID Principles.
 
-- Strong communication, interpersonal & technical skills to grasp new concepts quickly and constructively utilise the same.
+- Competence in micro-service architecture as well as the capability to apply core architecture principles to enhance a product's extensibility and maintainability.
+
+- Extensive use of open-source software with optional contributions to open-source libraries.
 
 ## 🛠 Languages and Tools Familiar With 
    Solidity | GraphQL | Node.js | Java | Kafka | Docker | AWS
