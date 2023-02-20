@@ -18,7 +18,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 
 ## 🛠 Languages and Tools Familiar With 
-   Solidity | GraphQL | Node.js | Java | Kafka | Docker | AWS
+   gRPC | AWS | Node.js | Java | Kafka | Docker | GraphQL
 
 ## 📊 Github Stats
   <summary><b>💻 GitHub Profile Stats</b></summary>
