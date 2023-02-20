@@ -2,19 +2,20 @@
 
 
 First of all, thanks for visiting my profile. Here, what you should know about me:
-- Rich experience in Cloud Engineering, AWS Infrastructure Maintenance; Micro-services, writing Unit Test Cases and Peer Reviews
+ - Cloud engineering and AWS infrastructure maintenance, including micro-services, unit testing, and peer reviews.
 
-- Headed development of innovative solutions to challenging problems, including command and control and high-integrity solutions
+ - Developed innovative solutions for complex challenges, such as command and control and high-integrity systems.
 
-- Devised strategies to overcome challenges of legacy infrastructure to ensure successful implementations.
+ - Created strategies to overcome legacy infrastructure issues and ensure successful implementations.
 
-- Proficiency in Solidity, Truffle-Suite, Node.js, Java, GraphQL, MongoDB, Redis, RabbitMQ, GraphQL, Docker, AWS-Lambda & AWS API-Gateway, Jest, Spring boot, Hibernate, MySQL and so on.
+ - Proficient in various technologies, including Solidity, Truffle-Suite, Node.js, Java, GraphQL, MongoDB, Redis, RabbitMQ, Docker, AWS Lambda & API    Gateway, Jest, Spring Boot, Hibernate, MySQL, and more.
 
-- Possess extensive knowledge and experience working on Node.js and SOLID Principles.
+ - Extensive knowledge and experience working with Node.js and SOLID Principles.
 
-- Competence in micro-service architecture as well as the capability to apply core architecture principles to enhance a product's extensibility and maintainability.
+ - Competent in micro-service architecture and core architecture principles to improve a product's extensibility and maintainability.
 
-- Extensive use of open-source software with optional contributions to open-source libraries.
+ - Familiar with open-source software and has contributed to open-source libraries.
+
 
 ## 🛠 Languages and Tools Familiar With 
    Solidity | GraphQL | Node.js | Java | Kafka | Docker | AWS
