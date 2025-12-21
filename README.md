@@ -4,40 +4,45 @@ Thanks for stopping by — here's a bit about me:
 
 ---
 
-### 🚀 Transforming Ideas into Scalable Cloud Solutions
+### 🌐 Building Platform-Scale Cloud Systems
 
-I'm an **AWS Certified Senior Software Engineer** with 8+ years of experience building secure, high-performance backend systems and cloud architectures. My core expertise lies in **Node.js**, **TypeScript**, **GraphQL**, **Kafka**, and **AWS**, with hands-on proficiency in event-driven microservices, infrastructure as code, and automation at scale.
-
-I've had the privilege of delivering results for companies like **Warner Bros. Discovery**, **Swiggy Dineout**, and FinTech startups across Southeast Asia — leading the development of platforms that power real-time content delivery, customer segmentation, and digital financial services.
+I'm a **Senior Platform / Backend Engineer** with 10+ years of experience designing, building, and operating distributed backend systems across media, fintech, food-tech, and travel domains. My core expertise lies in **cloud-native architectures**, **event-driven microservices**, and **platform engineering** using **Node.js**, **TypeScript**, **GraphQL**, **Kafka**, and **AWS**. I have a strong track record of standardizing platform foundations, integrating complex ecosystems, and delivering high-availability systems with a focus on reliability, performance, and system ownership.
 
 ---
 
 ### 💼 Recent Work Highlights
 
-- 🧩 **Motif Platform @ Warner Bros. Discovery** (Remote)
-  - Built modular TypeScript microservices serving brands like CNN, Eurosport, and Food Network.
-  - Architected secure, scalable APIs using AWS Lambda, ECS, and SQS for real-time editorial workflows.
+- 🧩 **Motif Content Platform @ Warner Bros. Discovery**
+  - Owned and developed Node.js/TypeScript microservices serving global brands (Food Network, CNN, Eurosport, Magnolia, Golf Digest, MotorTrend).
+  - Designed a loosely coupled microservices architecture, standardized REST/GraphQL APIs, and delivered a GraphQL-based Backend-for-Frontend (BFF).
+  - Architected secure AWS-native infrastructure (Lambda, ECS, SNS/SQS) and integrated OneTrust for GDPR/CCPA compliance.
 
-- 🍽️ **Swiggy Dineout** (Bangalore)
-  - Integrated 10+ POS systems with Kafka and Redis, improving transaction processing by 50%.
-  - Designed a MongoDB-based segmentation engine that boosted conversion rates by 25%.
+- 🍽️ **Swiggy Dineout**
+  - Designed and built a high-throughput event-driven integration platform connecting 10+ third-party POS systems with Kafka and Redis, reducing transaction latency by ~50%.
+  - Developed segmentation and analytics pipelines using MongoDB and ElasticSearch, enabling real-time user targeting and supporting revenue-critical workflows.
+  - Delivered enterprise microservices on AWS that contributed to a ~25% annual revenue increase.
 
-- 💸 **P2P Lending Platform** (Jakarta)
-  - Engineered a FinTech solution with AI-driven credit scoring and 95% automation.
-  - Integrated facial recognition and OCR into the KYC process, reducing turnaround time by 50%.
+- 💸 **FinTech Platform (P2P Lending)**
+  - Built an integrated P2P lending platform using Node.js/Express.js, MongoDB, and AWS.
+  - Automated ~95% of credit processing workflows and implemented OCR and facial recognition for KYC.
+  - Developed an NLP-based scoring engine to improve risk assessment and reduce processing time by ~50%.
 
 ---
 
-### 🌟 Core Skills & Certifications
+### 🛠️ Core Skills & Certifications
 
-- **Languages & Frameworks:** TypeScript, Go, Java, Node.js, Express, Spring Boot, Solidity
-- **Cloud & DevOps:** AWS (Lambda, S3, ECS, DynamoDB), Docker, IaC (CloudFormation), Jenkins
-- **Messaging & Integration:** Apache Kafka, Amazon SNS/SQS, gRPC, GraphQL
-- **Databases:** MongoDB, PostgreSQL, Redis, Elasticsearch
+- **Languages & Frameworks:** TypeScript, Node.js, Java, Go, Express.js, GraphQL (Backend-for-Frontend), Spring Boot, Hibernate, Gin
+- **Cloud & DevOps:** AWS (Lambda, ECS, SQS, SNS, DynamoDB, RDS, S3), Docker, Jenkins, Infrastructure as Code (CDK/CloudFormation), CI/CD (GitHub Actions, CircleCI)
+- **Architecture & Systems:** Microservices, Event-Driven Architecture, Distributed Systems, Backend-for-Frontend (BFF), RESTful APIs, Test-Driven Development (TDD)
+- **Messaging & Streaming:** Apache Kafka, AWS Kinesis, Amazon SNS/SQS, gRPC
+- **Databases:** MongoDB, DynamoDB, PostgreSQL/MySQL, Redis, ElasticSearch
+- **Observability & Reliability:** Structured logging, OpenTelemetry, AWS CloudWatch monitoring and alerting
+- **Compliance & Security:** GDPR/CCPA, OneTrust integrations, secure data access and deletion
+- **Testing:** Jest, Sinon, Newman, Mocha-Chai, JUnit
 - **Certifications:**
   - 🏅 [AWS Certified Developer – Associate (2024–2027)](https://www.credly.com/badges/cdcca7ea-6962-4019-919c-650b4fa4778a/linked_in_profile)
   - 🛰️ [Apollo GraphQL Developer – Associate (2025)](https://www.apollographql.com/tutorials/certifications/0fac3218-dfff-4b48-aa1f-8db6cf47aeb6)
-  - 🎓 Blockchain, gRPC, TypeScript Design Patterns & more
+  - 🎓 Additional coursework in API orchestration, gRPC, blockchain, and TypeScript design patterns
 
 ---
 
