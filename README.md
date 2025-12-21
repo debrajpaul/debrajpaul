@@ -40,8 +40,8 @@ I'm a **Senior Platform / Backend Engineer** with 10+ years of experience design
 - **Compliance & Security:** GDPR/CCPA, OneTrust integrations, secure data access and deletion
 - **Testing:** Jest, Sinon, Newman, Mocha-Chai, JUnit
 - **Certifications:**
-  - 🏅 AWS Certified Developer – Associate (2024–2027)
-  - 🛰️ Apollo GraphQL Developer – Associate (2025)
+  - 🏅 [AWS Certified Developer – Associate (2024–2027)](https://www.credly.com/badges/cdcca7ea-6962-4019-919c-650b4fa4778a/linked_in_profile)
+  - 🛰️ [Apollo GraphQL Developer – Associate (2025)](https://www.apollographql.com/tutorials/certifications/0fac3218-dfff-4b48-aa1f-8db6cf47aeb6)
   - 🎓 Additional coursework in API orchestration, gRPC, blockchain, and TypeScript design patterns
 
 ---
