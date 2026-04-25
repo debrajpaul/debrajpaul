@@ -1,82 +1,100 @@
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Debraj Paul
+# Debraj Paul
 
-Thanks for stopping by — here's a bit about me:
+**Senior Backend / Platform Engineer** — Node.js · TypeScript · AWS
+Bengaluru, IN · Open to remote globally · Open to relocation
 
----
+10+ years designing, building, and operating distributed backend systems across media, fintech, food-tech, and travel. Deep in AWS-native architectures, event-driven platforms, and Backend-for-Frontend GraphQL. Currently shipping the **Motif** content platform powering Food Network, CNN, Eurosport, Magnolia, Golf Digest, and MotorTrend at Warner Bros. Discovery.
 
-### 🌐 Building Platform-Scale Cloud Systems
-
-I'm a **Senior Platform / Backend Engineer** with 10+ years of experience designing, building, and operating distributed backend systems across media, fintech, food-tech, and travel domains. My core expertise lies in **cloud-native architectures**, **event-driven microservices**, and **platform engineering** using **Node.js**, **TypeScript**, **GraphQL**, **Kafka**, and **AWS**. I have a strong track record of standardizing platform foundations, integrating complex ecosystems, and delivering high-availability systems with a focus on reliability, performance, and system ownership.
-
----
-
-### 💼 Recent Work Highlights
-
-- 🧩 **Motif Content Platform @ Warner Bros. Discovery**
-  - Owned and developed Node.js/TypeScript microservices serving global brands (Food Network, CNN, Eurosport, Magnolia, Golf Digest, MotorTrend).
-  - Designed a loosely coupled microservices architecture, standardized REST/GraphQL APIs, and delivered a GraphQL-based Backend-for-Frontend (BFF).
-  - Architected secure AWS-native infrastructure (Lambda, ECS, SNS/SQS) and integrated OneTrust for GDPR/CCPA compliance.
-
-- 🍽️ **Swiggy Dineout**
-  - Designed and built a high-throughput event-driven integration platform connecting 10+ third-party POS systems with Kafka and Redis, reducing transaction latency by ~50%.
-  - Developed segmentation and analytics pipelines using MongoDB and ElasticSearch, enabling real-time user targeting and supporting revenue-critical workflows.
-  - Delivered enterprise microservices on AWS that contributed to a ~25% annual revenue increase.
-
-- 💸 **FinTech Platform (P2P Lending)**
-  - Built an integrated P2P lending platform using Node.js/Express.js, MongoDB, and AWS.
-  - Automated ~95% of credit processing workflows and implemented OCR and facial recognition for KYC.
-  - Developed an NLP-based scoring engine to improve risk assessment and reduce processing time by ~50%.
+[Portfolio](https://debrajpaul.github.io) · [LinkedIn](https://www.linkedin.com/in/debraj-paul) · [Email](mailto:pauldebraj7@gmail.com) · [CV (PDF)](https://drive.google.com/uc?id=12Y6GYWJMozXBiYKcAZLqsTMT2hy86P9f&export=download)
 
 ---
 
-### 🛠️ Core Skills & Certifications
+## Highlights
 
-- **Languages & Frameworks:** TypeScript, Node.js, Java, Go, Express.js, GraphQL (Backend-for-Frontend), Spring Boot, Hibernate, Gin
-- **Cloud & DevOps:** AWS (Lambda, ECS, SQS, SNS, DynamoDB, RDS, S3), Docker, Jenkins, Infrastructure as Code (CDK/CloudFormation), CI/CD (GitHub Actions, CircleCI)
-- **Architecture & Systems:** Microservices, Event-Driven Architecture, Distributed Systems, Backend-for-Frontend (BFF), RESTful APIs, Test-Driven Development (TDD)
-- **Messaging & Streaming:** Apache Kafka, AWS Kinesis, Amazon SNS/SQS, gRPC
-- **Databases:** MongoDB, DynamoDB, PostgreSQL/MySQL, Redis, ElasticSearch
-- **Observability & Reliability:** Structured logging, OpenTelemetry, AWS CloudWatch monitoring and alerting
-- **Compliance & Security:** GDPR/CCPA, OneTrust integrations, secure data access and deletion
-- **Testing:** Jest, Sinon, Newman, Mocha-Chai, JUnit
-- **Certifications:**
-  - 🏅 [AWS Certified Developer – Associate (2024–2027)](https://www.credly.com/badges/cdcca7ea-6962-4019-919c-650b4fa4778a/linked_in_profile)
-  - 🛰️ [Apollo GraphQL Developer – Associate (2025)](https://www.apollographql.com/tutorials/certifications/0fac3218-dfff-4b48-aa1f-8db6cf47aeb6)
-  - 🎓 Additional coursework in API orchestration, gRPC, blockchain, and TypeScript design patterns
+| Metric | Where | Context |
+| --- | --- | --- |
+| **10+ years** | — | Distributed backends across media · fintech · food-tech · travel |
+| **~50% latency reduction** | Swiggy Dineout | POS event pipelines on Kafka + Redis |
+| **~25% revenue lift** | Swiggy Dineout | Three enterprise-grade microservices on AWS |
+| **~25% conversion lift / ~15% bounce drop** | Swiggy Dineout | Customer segmentation on MongoDB + ElasticSearch |
+| **95% credit workflow automation** | PT Tujuh Asia | P2P lending platform with OCR + facial KYC + NLP scoring |
+| **GDPR / CCPA at scale** | Warner Bros. Discovery | OneTrust integration across Motif microservices |
+| **10+ POS systems integrated** | Swiggy Dineout | Kafka topic schemas + backward-compatible event evolution |
 
 ---
 
-### 🧠 What Drives Me
+## Currently shipping
 
-I love solving complex engineering problems, streamlining systems through automation, and helping teams build resilient platforms with future-proof architecture. Whether it’s crafting serverless APIs or deploying multi-region solutions — I care deeply about performance, scalability, and clean code.
+At **Warner Bros. Discovery (via Robosoft)** since Aug 2021 — Senior Software Engineer on the Motif content platform.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/debrajpaul">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=debrajpaul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
-  </a>
-  <br/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=debrajpaul&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"/>
-</p>
+- Loosely coupled Node.js/TypeScript microservices on AWS (Lambda, ECS, SNS, SQS) with Infrastructure-as-Code.
+- A scalable **GraphQL Backend-for-Frontend** for Food Network with auth, observability, and proactive monitoring.
+- **OneTrust** integrated for GDPR/CCPA user-data access, deletion, and auditability across services.
+- Standardized REST + GraphQL conventions adopted across teams; cut cross-team onboarding friction.
+- Distributed tracing via OpenTelemetry; Redis cache-aside reducing DB pressure.
 
 ---
 
-### 📬 Let’s Connect
+## Selected experience
 
-If you're looking for someone who can bring cloud-native engineering and architectural insight to your team, feel free to connect!
+- **Warner Bros. Discovery** — Senior Software Engineer · Aug 2021 – Present · Remote. Motif platform, GraphQL BFF, GDPR/CCPA compliance.
+- **Swiggy Dineout** — Senior Software Engineer · Dec 2019 – Aug 2021 · Bengaluru. Event-driven POS integrations, segmentation, marketing pipelines.
+- **PT Teknologi Tujuh Asia** — Senior Software Engineer · Nov 2018 – Dec 2019 · Jakarta. P2P lending, KYC automation, NLP-based risk scoring.
+- **TripBorn** — Backend Developer · Apr 2018 – Oct 2018 · Bengaluru. GDS reservation + booking workflows.
+- **Ekagga Technology** — Software Engineer · May 2017 – Apr 2018 · Bengaluru. Java/Spring Boot enterprise news + analytics platform.
+- **CSIR – URDIP (FAO project)** — SDE Intern · Jan 2015 – Jun 2015 · Bengaluru. Neural-network configurations for food import/export analytics in Core Java.
 
-<p>
-  <a href="https://www.linkedin.com/in/debraj-paul/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:pauldebraj7@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/debrajpaul">
-    <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white">
-  </a>
-</p>
+Full timeline and architecture write-ups on the [portfolio](https://debrajpaul.github.io).
+
+---
+
+## Tech focus
+
+**Languages & Runtime** — TypeScript · Node.js · JavaScript · Java · Go
+
+**Backend & APIs** — Express · custom Node.js frameworks · GraphQL (BFF) · Spring Boot · Hibernate · Gin · REST · gRPC
+
+**Cloud & DevOps** — AWS (Lambda · ECS · SQS · SNS · S3 · IAM · DynamoDB · RDS) · Docker · Jenkins · GitHub Actions · CircleCI · IaC (CDK / CloudFormation)
+
+**Architecture & Design** — Microservices · Event-Driven Systems · Backend-for-Frontend · Distributed Systems · TDD · Domain-based service boundaries · Idempotent message handling · Retry with exponential backoff · Cache-aside · Fault isolation via queue decoupling
+
+**Messaging & Streaming** — Kafka · AWS Kinesis · SNS · SQS
+
+**Data Stores** — MongoDB (Mongoose) · DynamoDB · PostgreSQL · MySQL · RDS · Redis · ElasticSearch
+
+**Compliance & Security** — GDPR · CCPA · OneTrust · JWT · OAuth · IAM · Secure data deletion & access controls
+
+**Observability & Reliability** — Structured logging · OpenTelemetry · CloudWatch monitoring + alerting
+
+**Testing** — Jest · Sinon · Newman · Mocha-Chai · JUnit
+
+---
+
+## Certifications
+
+- **AWS Certified Developer – Associate** (2024–2027) — [Credly](https://www.credly.com/badges/cdcca7ea-6962-4019-919c-650b4fa4778a/linked_in_profile)
+- **Apollo GraphQL Developer – Associate** (2025) — [Apollo](https://www.apollographql.com/tutorials/certifications/0fac3218-dfff-4b48-aa1f-8db6cf47aeb6)
+
+---
+
+## Activity
+
+<a href="https://github.com/debrajpaul">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debrajpaul&show_icons=true&hide_border=true&hide=issues&theme=transparent&title_color=7c5cff&icon_color=7c5cff&text_color=ededf0" alt="GitHub stats" />
+</a>
+<a href="https://github.com/debrajpaul">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debrajpaul&layout=compact&hide_border=true&theme=transparent&title_color=7c5cff&text_color=ededf0&hide=html,css" alt="Top languages" />
+</a>
+
+---
+
+## Connect
+
+- Portfolio — <https://debrajpaul.github.io>
+- LinkedIn — <https://www.linkedin.com/in/debraj-paul>
+- Email — <pauldebraj7@gmail.com>
+- CV (PDF) — [Download](https://drive.google.com/uc?id=12Y6GYWJMozXBiYKcAZLqsTMT2hy86P9f&export=download)
+
+---
+
+<sub>Open to senior backend / platform / staff IC roles, remote-first or with relocation support.</sub>
