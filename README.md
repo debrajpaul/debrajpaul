@@ -78,20 +78,9 @@ Full timeline and architecture write-ups on the [portfolio](https://debrajpaul.g
 
 ---
 
-## Activity
-
-<a href="https://github.com/debrajpaul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debrajpaul&show_icons=true&hide_border=true&hide=issues&theme=transparent&title_color=7c5cff&icon_color=7c5cff&text_color=ededf0" alt="GitHub stats" />
-</a>
-<a href="https://github.com/debrajpaul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debrajpaul&layout=compact&hide_border=true&theme=transparent&title_color=7c5cff&text_color=ededf0&hide=html,css" alt="Top languages" />
-</a>
-
----
-
 ## Connect
 
-- Portfolio — <https://debrajpaul.github.io>
+- Portfolio — <https://debrajpaul.com>
 - LinkedIn — <https://www.linkedin.com/in/debraj-paul>
 - Email — <pauldebraj7@gmail.com>
 - CV (PDF) — [Download](https://drive.google.com/uc?id=12Y6GYWJMozXBiYKcAZLqsTMT2hy86P9f&export=download)
