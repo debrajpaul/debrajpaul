@@ -3,7 +3,7 @@
 **Senior Backend / Platform Engineer** — Node.js · TypeScript · AWS
 Bengaluru, IN · Open to remote globally · Open to relocation
 
-10+ years designing, building, and operating distributed backend systems across media, fintech, food-tech, and travel. Deep in AWS-native architectures, event-driven platforms, and Backend-for-Frontend GraphQL. Currently shipping the **Motif** content platform powering Food Network, CNN, Eurosport, Magnolia, Golf Digest, and MotorTrend at Warner Bros. Discovery.
+11+ years designing, building, and operating distributed backend systems across media, fintech, food-tech, and travel. Deep in AWS-native architectures, event-driven platforms, and Backend-for-Frontend GraphQL. Currently shipping privacy-orchestration, multi-brand moderation, and backfill data pipelines for a global content platform supporting Food Network, CNN, Eurosport, Magnolia, Golf Digest, and MotorTrend at Warner Bros. Discovery.
 
 [Portfolio](https://debrajpaul.github.io) · [LinkedIn](https://www.linkedin.com/in/debraj-paul) · [Email](mailto:pauldebraj7@gmail.com) · [CV (PDF)](https://drive.google.com/uc?id=12Y6GYWJMozXBiYKcAZLqsTMT2hy86P9f&export=download)
 
@@ -13,31 +13,32 @@ Bengaluru, IN · Open to remote globally · Open to relocation
 
 | Metric | Where | Context |
 | --- | --- | --- |
-| **10+ years** | — | Distributed backends across media · fintech · food-tech · travel |
+| **11+ years** | — | Distributed backends across media · fintech · food-tech · travel |
 | **~50% latency reduction** | Swiggy Dineout | POS event pipelines on Kafka + Redis |
 | **~25% revenue lift** | Swiggy Dineout | Three enterprise-grade microservices on AWS |
 | **~25% conversion lift / ~15% bounce drop** | Swiggy Dineout | Customer segmentation on MongoDB + ElasticSearch |
 | **95% credit workflow automation** | PT Tujuh Asia | P2P lending platform with OCR + facial KYC + NLP scoring |
-| **GDPR / CCPA at scale** | Warner Bros. Discovery | OneTrust integration across Motif microservices |
+| **6+ microservices** | Warner Bros. Discovery | GDPR / CCPA fan-out orchestrated via OneTrust |
 | **10+ POS systems integrated** | Swiggy Dineout | Kafka topic schemas + backward-compatible event evolution |
 
 ---
 
 ## Currently shipping
 
-At **Warner Bros. Discovery (via Robosoft)** since Aug 2021 — Senior Software Engineer on the Motif content platform.
+At **Warner Bros. Discovery (via Robosoft)** since Aug 2021 — Senior Software Engineer on a global content platform supporting multiple brands.
 
+- **Privacy / PII Request Orchestrator** — GDPR/CCPA fan-out across 6+ PII-holding microservices via OneTrust. Service-registry-driven routing, two-stream Kafka contract, per-service + aggregate state machine, idempotent on subject-request-ID end-to-end.
+- **Multi-Brand Async Moderation Platform** — text, nickname, and image moderation for N consumer surfaces (web + mobile). Migrated text path off a third-party vendor; absorbed image path from a sister team. Two-stream Kafka, hot-reloadable per-brand policy, dual-store (S3 bytes + DynamoDB metadata).
+- **Backfill Search-Indexing Pipeline** — lifted a large content corpus from production DynamoDB to OpenSearch without touching read capacity. DDB native S3 export → AWS Glue → Parquet (Snappy) → Node.js Lambda batching → Search Indexing API. SQS FIFO + DLQ for exhausted retries.
 - Loosely coupled Node.js/TypeScript microservices on AWS (Lambda, ECS, SNS, SQS) with Infrastructure-as-Code.
-- A scalable **GraphQL Backend-for-Frontend** for Food Network with auth, observability, and proactive monitoring.
-- **OneTrust** integrated for GDPR/CCPA user-data access, deletion, and auditability across services.
-- Standardized REST + GraphQL conventions adopted across teams; cut cross-team onboarding friction.
-- Distributed tracing via OpenTelemetry; Redis cache-aside reducing DB pressure.
+- Scalable **GraphQL Backend-for-Frontend** for Food Network with auth, observability, and proactive monitoring.
+- REST + GraphQL API conventions standardized across teams; distributed tracing via OpenTelemetry; Redis cache-aside.
 
 ---
 
 ## Selected experience
 
-- **Warner Bros. Discovery** — Senior Software Engineer · Aug 2021 – Present · Remote. Motif platform, GraphQL BFF, GDPR/CCPA compliance.
+- **Warner Bros. Discovery** — Senior Software Engineer · Aug 2021 – Present · Remote. Global content platform, privacy orchestration, multi-brand moderation, backfill ETL, GraphQL BFF, GDPR/CCPA compliance.
 - **Swiggy Dineout** — Senior Software Engineer · Dec 2019 – Aug 2021 · Bengaluru. Event-driven POS integrations, segmentation, marketing pipelines.
 - **PT Teknologi Tujuh Asia** — Senior Software Engineer · Nov 2018 – Dec 2019 · Jakarta. P2P lending, KYC automation, NLP-based risk scoring.
 - **TripBorn** — Backend Developer · Apr 2018 – Oct 2018 · Bengaluru. GDS reservation + booking workflows.
@@ -54,15 +55,15 @@ Full timeline and architecture write-ups on the [portfolio](https://debrajpaul.g
 
 **Backend & APIs** — Express · custom Node.js frameworks · GraphQL (BFF) · Spring Boot · Hibernate · Gin · REST · gRPC
 
-**Cloud & DevOps** — AWS (Lambda · ECS · SQS · SNS · S3 · IAM · DynamoDB · RDS) · Docker · Jenkins · GitHub Actions · CircleCI · IaC (CDK / CloudFormation)
+**Cloud & DevOps** — AWS (Lambda · ECS · SQS · SNS · S3 · IAM · DynamoDB · RDS · Glue · OpenSearch) · Docker · Jenkins · GitHub Actions · CircleCI · IaC (CDK / CloudFormation)
 
-**Architecture & Design** — Microservices · Event-Driven Systems · Backend-for-Frontend · Distributed Systems · TDD · Domain-based service boundaries · Idempotent message handling · Retry with exponential backoff · Cache-aside · Fault isolation via queue decoupling
+**Architecture & Design** — Microservices · Event-Driven Systems · Backend-for-Frontend · Distributed Systems · TDD · Service-registry-driven fan-out · Two-stream Kafka contracts · State-machine async fulfillment · Idempotent message handling · Retry with exponential backoff · Cache-aside · Fault isolation via queue decoupling
 
-**Messaging & Streaming** — Kafka · AWS Kinesis · SNS · SQS
+**Messaging & Streaming** — Kafka · AWS Kinesis · SNS · SQS (Standard · FIFO · DLQ)
 
-**Data Stores** — MongoDB (Mongoose) · DynamoDB · PostgreSQL · MySQL · RDS · Redis · ElasticSearch
+**Data Stores** — MongoDB (Mongoose) · DynamoDB · PostgreSQL · MySQL · RDS · Redis · ElasticSearch · OpenSearch · Parquet (Snappy) on S3
 
-**Compliance & Security** — GDPR · CCPA · OneTrust · JWT · OAuth · IAM · Secure data deletion & access controls
+**Compliance & Security** — GDPR · CCPA · OneTrust · Subject-rights-request orchestration · Audit trails · Secure data deletion & access controls · JWT · OAuth · IAM
 
 **Observability & Reliability** — Structured logging · OpenTelemetry · CloudWatch monitoring + alerting
 
