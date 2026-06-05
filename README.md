@@ -1,6 +1,6 @@
 # Debraj Paul
 
-**Senior Backend / Platform Engineer** — Node.js · TypeScript · AWS
+**Technical Lead II — Backend / Platform Engineer** — Node.js · TypeScript · AWS
 Bengaluru, IN · Open to remote globally · Open to relocation
 
 11+ years designing, building, and operating distributed backend systems across media, fintech, food-tech, and travel. Deep in AWS-native architectures, event-driven platforms, and Backend-for-Frontend GraphQL. Currently shipping privacy-orchestration, multi-brand moderation, and backfill data pipelines for a global content platform supporting Food Network, CNN, Eurosport, Magnolia, Golf Digest, and MotorTrend at Warner Bros. Discovery.
@@ -25,7 +25,7 @@ Bengaluru, IN · Open to remote globally · Open to relocation
 
 ## Currently shipping
 
-At **Warner Bros. Discovery (via Robosoft)** since Aug 2021 — Senior Software Engineer on a global content platform supporting multiple brands.
+At **Warner Bros. Discovery (via Robosoft)** since Aug 2021 — Technical Lead II (promoted Jan 2026) on a global content platform supporting multiple brands.
 
 - **Privacy / PII Request Orchestrator** — GDPR/CCPA fan-out across 6+ PII-holding microservices via OneTrust. Service-registry-driven routing, two-stream Kafka contract, per-service + aggregate state machine, idempotent on subject-request-ID end-to-end.
 - **Multi-Brand Async Moderation Platform** — text, nickname, and image moderation for N consumer surfaces (web + mobile). Migrated text path off a third-party vendor; absorbed image path from a sister team. Two-stream Kafka, hot-reloadable per-brand policy, dual-store (S3 bytes + DynamoDB metadata).
@@ -38,7 +38,7 @@ At **Warner Bros. Discovery (via Robosoft)** since Aug 2021 — Senior Software 
 
 ## Selected experience
 
-- **Warner Bros. Discovery** — Senior Software Engineer · Aug 2021 – Present · Remote. Global content platform, privacy orchestration, multi-brand moderation, backfill ETL, GraphQL BFF, GDPR/CCPA compliance.
+- **Warner Bros. Discovery** — Senior Software Engineer → Technical Lead II · Aug 2021 – Present · Remote. Global content platform, privacy orchestration, multi-brand moderation, backfill ETL, GraphQL BFF, GDPR/CCPA compliance.
 - **Swiggy Dineout** — Senior Software Engineer · Dec 2019 – Aug 2021 · Bengaluru. Event-driven POS integrations, segmentation, marketing pipelines.
 - **PT Teknologi Tujuh Asia** — Senior Software Engineer · Nov 2018 – Dec 2019 · Jakarta. P2P lending, KYC automation, NLP-based risk scoring.
 - **TripBorn** — Backend Developer · Apr 2018 – Oct 2018 · Bengaluru. GDS reservation + booking workflows.
