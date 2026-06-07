@@ -5,7 +5,7 @@ Bengaluru, IN · Open to remote globally · Open to relocation
 
 11+ years designing, building, and operating distributed backend systems across media, fintech, food-tech, and travel. Deep in AWS-native architectures, event-driven platforms, and Backend-for-Frontend GraphQL. Currently shipping privacy-orchestration, multi-brand moderation, and backfill data pipelines for a global content platform supporting Food Network, CNN, Eurosport, Magnolia, Golf Digest, and MotorTrend at Warner Bros. Discovery.
 
-[Portfolio](https://debrajpaul.github.io) · [LinkedIn](https://www.linkedin.com/in/debraj-paul) · [Email](mailto:pauldebraj7@gmail.com) · [CV (PDF)](https://drive.google.com/uc?id=12Y6GYWJMozXBiYKcAZLqsTMT2hy86P9f&export=download)
+[Portfolio](https://debrajpaul.github.io) · [LinkedIn](https://www.linkedin.com/in/debraj-paul) · [Email](mailto:debraj@debrajpaul.com) · [CV (PDF)](https://debrajpaul.com/assets/Debraj_Paul_CV.pdf)
 
 ---
 
@@ -88,8 +88,8 @@ Full timeline and architecture write-ups on the [portfolio](https://debrajpaul.g
 
 - Portfolio — <https://debrajpaul.com>
 - LinkedIn — <https://www.linkedin.com/in/debraj-paul>
-- Email — <pauldebraj7@gmail.com>
-- CV (PDF) — [Download](https://drive.google.com/uc?id=12Y6GYWJMozXBiYKcAZLqsTMT2hy86P9f&export=download)
+- Email — <debraj@debrajpaul.com>
+- CV (PDF) — [Download](https://debrajpaul.com/assets/Debraj_Paul_CV.pdf)
 
 ---
 
