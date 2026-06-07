@@ -49,6 +49,12 @@ Full timeline and architecture write-ups on the [portfolio](https://debrajpaul.g
 
 ---
 
+## Open source & personal projects
+
+- **[Full Budget App](https://github.com/debrajpaul/full-budget-app)** — modular, multi-tenant SaaS budgeting platform (active, solo, MIT-licensed, started Aug 2025). Ingests bank statements (HDFC, SBI, Axis · PDF/CSV), enriches transactions via deterministic NLP rules with an Amazon Bedrock AI fallback, and serves a tenant-aware GraphQL API. pnpm monorepo on AWS serverless (Lambda · DynamoDB · S3 · SQS · DynamoDB Streams), fully provisioned via AWS CDK. Multi-tenant data isolation at the schema level (`tenantId` partition key), event-driven ingestion (zero polling), schema-first GraphQL, refresh-token rotation with reuse detection, and production-grade observability (X-Ray, CloudWatch alarms, Winston, Prometheus `/metrics`).
+
+---
+
 ## Tech focus
 
 **Languages & Runtime** — TypeScript · Node.js · JavaScript · Java · Go
