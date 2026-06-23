@@ -25,7 +25,7 @@ Bengaluru, IN · Open to remote globally · Open to relocation
 
 ## Currently shipping
 
-At **Warner Bros. Discovery (via Robosoft)** since Aug 2020 — Technical Lead II (promoted Jan 2026) on a global content platform supporting multiple brands.
+At **Warner Bros. Discovery (via Robosoft)** since Aug 2020 — Technical Lead II on a global content platform supporting multiple brands.
 
 - **Privacy / PII Request Orchestrator** — GDPR/CCPA fan-out across 6+ PII-holding microservices via OneTrust. Service-registry-driven routing, two-stream Kafka contract, per-service + aggregate state machine, idempotent on subject-request-ID end-to-end.
 - **Multi-Brand Async Moderation Platform** — text, nickname, and image moderation for N consumer surfaces (web + mobile). Migrated text path off a third-party vendor; absorbed image path from a sister team. Two-stream Kafka, hot-reloadable per-brand policy, dual-store (S3 bytes + DynamoDB metadata).
@@ -38,7 +38,7 @@ At **Warner Bros. Discovery (via Robosoft)** since Aug 2020 — Technical Lead I
 
 ## Selected experience
 
-- **Warner Bros. Discovery** — Senior Software Engineer → Technical Lead II (promoted Jan 2026) · Aug 2020 – Present · Remote. Global content platform, privacy orchestration, multi-brand moderation, backfill ETL, GraphQL BFF, GDPR/CCPA compliance.
+- **Warner Bros. Discovery** — Technical Lead II· Aug 2020 – Present · Remote. Global content platform, privacy orchestration, multi-brand moderation, backfill ETL, GraphQL BFF, GDPR/CCPA compliance.
 - **Swiggy Dineout** (formerly Dineout, Times Internet) — Senior Software Engineer · Dec 2019 – Jun 2021 · Bengaluru. Event-driven POS integrations, segmentation, marketing pipelines.
 - **PT Teknologi Tujuh Asia** — Senior Software Engineer · Nov 2018 – Dec 2019 · Jakarta. P2P lending, KYC automation, NLP-based risk scoring.
 - **TripBorn** — Backend Developer · Apr 2018 – Oct 2018 · Bengaluru. GDS reservation + booking workflows.
