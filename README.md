@@ -14,18 +14,18 @@ Bengaluru, IN · Open to remote globally · Open to relocation
 | Metric | Where | Context |
 | --- | --- | --- |
 | **11+ years** | — | Distributed backends across media · fintech · food-tech · travel |
-| **~50% latency reduction** | Swiggy Dineout | POS event pipelines on Kafka + Redis |
-| **~25% revenue lift** | Swiggy Dineout | Three enterprise-grade microservices on AWS |
-| **~25% conversion lift / ~15% bounce drop** | Swiggy Dineout | Customer segmentation on MongoDB + ElasticSearch |
+| **~50% latency reduction** | Swiggy Dineout (formerly Dineout, Times Internet) | POS event pipelines on Kafka + Redis |
+| **~25% revenue lift** | Swiggy Dineout (formerly Dineout, Times Internet) | Three enterprise-grade microservices on AWS |
+| **~25% conversion lift / ~15% bounce drop** | Swiggy Dineout (formerly Dineout, Times Internet) | Customer segmentation on MongoDB + ElasticSearch |
 | **95% credit workflow automation** | PT Tujuh Asia | P2P lending platform with OCR + facial KYC + NLP scoring |
 | **6+ microservices** | Warner Bros. Discovery | GDPR / CCPA fan-out orchestrated via OneTrust |
-| **10+ POS systems integrated** | Swiggy Dineout | Kafka topic schemas + backward-compatible event evolution |
+| **10+ POS systems integrated** | Swiggy Dineout (formerly Dineout, Times Internet) | Kafka topic schemas + backward-compatible event evolution |
 
 ---
 
 ## Currently shipping
 
-At **Warner Bros. Discovery (via Robosoft)** since Aug 2021 — Technical Lead II (promoted Jan 2026) on a global content platform supporting multiple brands.
+At **Warner Bros. Discovery (via Robosoft)** since Aug 2020 — Technical Lead II (promoted Jan 2026) on a global content platform supporting multiple brands.
 
 - **Privacy / PII Request Orchestrator** — GDPR/CCPA fan-out across 6+ PII-holding microservices via OneTrust. Service-registry-driven routing, two-stream Kafka contract, per-service + aggregate state machine, idempotent on subject-request-ID end-to-end.
 - **Multi-Brand Async Moderation Platform** — text, nickname, and image moderation for N consumer surfaces (web + mobile). Migrated text path off a third-party vendor; absorbed image path from a sister team. Two-stream Kafka, hot-reloadable per-brand policy, dual-store (S3 bytes + DynamoDB metadata).
@@ -38,8 +38,8 @@ At **Warner Bros. Discovery (via Robosoft)** since Aug 2021 — Technical Lead I
 
 ## Selected experience
 
-- **Warner Bros. Discovery** — Senior Software Engineer → Technical Lead II · Aug 2021 – Present · Remote. Global content platform, privacy orchestration, multi-brand moderation, backfill ETL, GraphQL BFF, GDPR/CCPA compliance.
-- **Swiggy Dineout** — Senior Software Engineer · Dec 2019 – Aug 2021 · Bengaluru. Event-driven POS integrations, segmentation, marketing pipelines.
+- **Warner Bros. Discovery** — Senior Software Engineer → Technical Lead II (promoted Jan 2026) · Aug 2020 – Present · Remote. Global content platform, privacy orchestration, multi-brand moderation, backfill ETL, GraphQL BFF, GDPR/CCPA compliance.
+- **Swiggy Dineout** (formerly Dineout, Times Internet) — Senior Software Engineer · Dec 2019 – Jun 2021 · Bengaluru. Event-driven POS integrations, segmentation, marketing pipelines.
 - **PT Teknologi Tujuh Asia** — Senior Software Engineer · Nov 2018 – Dec 2019 · Jakarta. P2P lending, KYC automation, NLP-based risk scoring.
 - **TripBorn** — Backend Developer · Apr 2018 – Oct 2018 · Bengaluru. GDS reservation + booking workflows.
 - **Ekagga Technology** — Software Engineer · May 2017 – Apr 2018 · Bengaluru. Java/Spring Boot enterprise news + analytics platform.
